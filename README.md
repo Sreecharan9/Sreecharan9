@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Sreecharan! Data Analyst with a passion for turning raw data into actionable insights. 📊
-=====================================================================================================================
+____________________________________________________________________________________________________________________
 🔍 With Excel, SQL, and Power BI in my toolkit, I love uncovering hidden patterns and transforming complexity into clarity. 💡
 
 🏢 Currently contributing my analytical expertise as a Data Analyst at Wipro.

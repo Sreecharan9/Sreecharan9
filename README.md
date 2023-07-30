@@ -1,10 +1,15 @@
-### 👋 Hi there! I'm Sreecharan, a Data Analyst skilled in SQL, Excel, and Power BI.
+### 👋 Hi there, I'm Sreecharan!
+----------------------------------------------------------------------------------------------------------
 
-💾 SQL | 📊 Excel | 📊 Power BI
+👀 I’m passionate about crunching data, creating insightful interactive dashboards, building models, and helping others grow in their careers.
 
-🔍 I love diving into data, crunching numbers with Excel, and crafting insightful visualizations with Power BI. My expertise in SQL allows me to unearth valuable insights from databases.
+💼 Currently working as a Data Analyst at Wipro.
 
-💼 Open to collaborations on exciting data analysis projects. Let's work together and create a meaningful impact!
+💞️ I’m looking to collaborate on data analysis and analytics projects.
 
-📬 Connect with me on LinkedIn: www.linkedin.com/in/mogili-sreecharan
+📊 Skills:
+📊 Excel
+💾 SQL
+📊 Power BI
 
+📬 You can reach me on LinkedIn: www.linkedin.com/in/mogili-sreecharan

@@ -8,7 +8,8 @@
 
 **🚀 Seeking exciting opportunities to collaborate on data-driven projects that make a real impact. Let's create something amazing together!**
 
-**📬 Connect with me on www.linkedin.com/in/mogili-sreecharan to explore potential collaborations.**
+**📬 Connect with me on [LinkedIn](https://bit.ly/3KfDCQk) to explore potential collaborations.**
+
 
 **📈 Check out my GitHub repositories to see my data analysis projects in action!**
 

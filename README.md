@@ -1,5 +1,4 @@
-### 👋 Hi there, I'm Sreecharan!
-----------------------------------------------------------------------------------------------------------
+### 👋 Hi there, I'm <span style="color:#ff4500;">Sreecharan</span>!
 
 👀 I’m passionate about crunching data, creating insightful interactive dashboards, building models, and helping others grow in their careers.
 
@@ -12,4 +11,5 @@
 💾 SQL
 📊 Power BI
 
-📬 You can reach me on LinkedIn: www.linkedin.com/in/mogili-sreecharan
+📬 You can reach me on LinkedIn: [linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/your-linkedin-username/)
+

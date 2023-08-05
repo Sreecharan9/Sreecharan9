@@ -1,9 +1,7 @@
+[![MasterHead](https://indoanalytica.com/static/images/data-science-2.gif)](https://sreecharan9.io)
 <h1 align="center">Hi 👋, I'm Sreecharan</h1>
 <h3 align="center">A passionate Data Analyst from India, I'm enthusiastic about extracting meaningful insights from complex datasets. My current focus revolves around harnessing data to uncover valuable trends and patterns, all while contributing to data-driven decision-making. Let's dive into the world of data and make a difference together!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Findoanalytica.com%2Fstatic%2Fimages%2Fdata-science-2.gif&tbnid=IA-aRpasDaggTM&vet=12ahUKEwjso9PL_MWAAxXL_TgGHb5wA9IQMygUegUIARDXAg..i&imgrefurl=https%3A%2F%2Findoanalytica.com%2Fdata-science%2F&docid=czKCCTgzLb7ltM&w=640&h=640&q=Data%20Analysis%20gifs&ved=2ahUKEwjso9PL_MWAAxXL_TgGHb5wA9IQMygUegUIARDXAg">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreecharan9&label=Profile%20views&color=0e75b6&style=flat" alt="sreecharan9" /> </p>
+<img align="right" alt="Coding" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
 - 🌱 I’m currently learning on **Power BI and Basics of Python**
 
